@@ -1,0 +1,9 @@
+Search Engine: Bing
+
+Average percent overlap: 28.40%
+Average Spearman coefficient: -8.20
+
+The Bing search engine performed worse than Google based on the rankings.
+The low overlap percentage indicates that the results returned by Bing differed significantly from Google's top results. 
+Additionally, the negative Spearman coefficient suggests that the ranking order of the results was not only different but inversely correlated with 
+Google's rankings. These two metrics combined demonstrate that the search engine struggled to match Google's consistency in delivering results.
